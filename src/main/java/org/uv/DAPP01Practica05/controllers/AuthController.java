@@ -11,10 +11,7 @@ import org.uv.DAPP01Practica05.requests.AuthResponse;
 import org.uv.DAPP01Practica05.requests.LoginRequest;
 import org.uv.DAPP01Practica05.requests.RegisterRequest;
 
-/**
- *
- * @author yodoeaoffi06
- */
+
 
 @RestController
 @RequestMapping("api/auth")

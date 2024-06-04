@@ -10,10 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import java.util.Optional;
 
-/**
- *
- * @author zaireko
- */
+
 @RestController
 @RequestMapping("/api/v1")
 public class EmpleadosController {

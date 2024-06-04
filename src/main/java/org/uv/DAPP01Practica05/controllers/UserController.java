@@ -15,10 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import org.uv.DAPP01Practica05.user.User;
 
-/**
- *
- * @author yodoeaoffi06
- */
+
 @RestController
 @RequestMapping("/api/v1")
 @RequiredArgsConstructor

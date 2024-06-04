@@ -11,10 +11,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-/**
- *
- * @author zaireko
- */
+
 @Entity
 @Table(name = "empleados")
 public class Empleado {

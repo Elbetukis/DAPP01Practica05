@@ -15,10 +15,6 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 
 import org.uv.DAPP01Practica05.user.UserRepository;
 
-/**
- *
- * @author yodoeaoffi06
- */
 
 @Configuration
 @RequiredArgsConstructor
